@@ -1,4 +1,7 @@
 class Conta:
+    
+    #   ** em python usando-se '__' antes de qualquer variavel tranformamos seus atributos em privado.
+    #   ** o equivalente em algumas linguagem ao modificadores de acesso.
 
     def __init__(self, agencia, conta, titular):
 
